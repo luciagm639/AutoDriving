@@ -1,6 +1,7 @@
 <center>
     <h1>AutoDriving</h1>
-    <h3><i>A lane detection algorithm</i></h3>
+    <h4><i>A lane detection algorithm</i></h4>
+    Link to the original project: https://github.com/luciagm639/AutoDriving
 </center>
 
 ## Instalation:
