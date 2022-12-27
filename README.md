@@ -13,7 +13,8 @@ pip install matplotlib
 pip install scikit-image
 ```
 ## Usage:
-Only thing you need to do is run all cells on the notebook sequentially.
+Only thing you need to do is to run all cells of the notebook sequentially.
+
 To abort the execution press key 's', while the pop-up window is active.
 
 ## Reference:
